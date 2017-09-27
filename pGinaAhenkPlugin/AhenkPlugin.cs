@@ -11,7 +11,7 @@ using System.Management.Automation.Runspaces;
 * See https://github.com/pgina/pgina/wiki/Plugin-Tutorial
 * for more info!
 */
-namespace pGinaAhenkPlugin
+namespace AhenkPlugin
 {
     public class PluginImpl : pGina.Shared.Interfaces.IPluginAuthenticationGateway, pGina.Shared.Interfaces.IPluginEventNotifications
     {

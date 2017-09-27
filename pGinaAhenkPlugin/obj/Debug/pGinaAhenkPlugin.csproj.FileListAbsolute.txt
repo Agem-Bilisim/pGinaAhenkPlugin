@@ -7,3 +7,12 @@ c:\users\volkan\documents\visual studio 2015\Projects\pGinaAhenkPlugin\pGinaAhen
 c:\users\volkan\documents\visual studio 2015\Projects\pGinaAhenkPlugin\pGinaAhenkPlugin\bin\Debug\System.Management.Automation.dll
 c:\users\volkan\documents\visual studio 2015\Projects\pGinaAhenkPlugin\pGinaAhenkPlugin\obj\Debug\pGinaAhenkPlugin.dll
 c:\users\volkan\documents\visual studio 2015\Projects\pGinaAhenkPlugin\pGinaAhenkPlugin\obj\Debug\pGinaAhenkPlugin.pdb
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\bin\Debug\pGinaAhenkPlugin.dll
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\bin\Debug\pGinaAhenkPlugin.pdb
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\bin\Debug\Abstractions.dll
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\bin\Debug\log4net.dll
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\bin\Debug\pGina.Shared.dll
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\bin\Debug\System.Management.Automation.dll
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\obj\Debug\pGinaAhenkPlugin.csprojResolveAssemblyReference.cache
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\obj\Debug\pGinaAhenkPlugin.dll
+C:\Users\volkan\Documents\GitHub\pGinaAhenkPlugin\pGinaAhenkPlugin\obj\Debug\pGinaAhenkPlugin.pdb
